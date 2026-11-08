@@ -19,9 +19,9 @@ settings_nomi = {
     "analysis": {
         "analyzer": {
             "analyzer_nome": {
-                "type": "pattern",
-                "pattern": "[\\W_]+",
-                "lowercase": True,
+                "type": "custom",
+                "tokenizer": "whitespace",
+                "filter": ["word_delimiter_graph", "lowercase"],
             }
         }
     }
