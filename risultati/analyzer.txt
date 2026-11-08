@@ -1,0 +1,9 @@
+Testo: business_001_ad_sales_boost_time_warner
+standard -> ['business_001_ad_sales_boost_time_warner']
+analyzer_nome -> ['business', '001', 'ad', 'sales', 'boost', 'time', 'warner']
+campo nome -> ['business', '001', 'ad', 'sales', 'boost', 'time', 'warner']
+
+Testo: The companies are growing their profits
+standard -> ['the', 'companies', 'are', 'growing', 'their', 'profits']
+english -> ['compani', 'grow', 'profit']
+campo contenuto -> ['compani', 'grow', 'profit']
