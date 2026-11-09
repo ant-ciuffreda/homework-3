@@ -1,0 +1,58 @@
+Query 1: Termine singolo, (contenuto 'market') Risultati: 19
+  File: business_019_india_widens_access_to_telecoms.txt, Score: 1.588
+  File: tech_040_apple_ipod_family_expands_market.txt, Score: 1.533
+  File: business_022_sluggish_economy_hits_german_jobs.txt, Score: 1.415
+  File: business_018_india_s_rupee_hits_five.txt, Score: 1.373
+  File: business_005_pernod_takeover_talk_lifts_domecq.txt, Score: 1.282
+
+Query 2: Maiuscole, (contenuto 'MARKET') Risultati: 19
+  File: business_019_india_widens_access_to_telecoms.txt, Score: 1.588
+  File: tech_040_apple_ipod_family_expands_market.txt, Score: 1.533
+  File: business_022_sluggish_economy_hits_german_jobs.txt, Score: 1.415
+  File: business_018_india_s_rupee_hits_five.txt, Score: 1.373
+  File: business_005_pernod_takeover_talk_lifts_domecq.txt, Score: 1.282
+
+Query 3: Plurale, (contenuto 'companies') Risultati: 20
+  File: business_017_parmalat_boasts_doubled_profits.txt, Score: 1.524
+  File: business_010_court_rejects_280bn_tobacco_case.txt, Score: 1.391
+  File: tech_029_open_source_leaders_slam_patents.txt, Score: 1.375
+  File: business_014_telegraph_newspapers_axe_90_jobs.txt, Score: 1.213
+  File: business_003_yukos_unit_buyer_faces_loan.txt, Score: 1.207
+
+Query 4: Singolare, (contenuto 'company') Risultati: 20
+  File: business_017_parmalat_boasts_doubled_profits.txt, Score: 1.524
+  File: business_010_court_rejects_280bn_tobacco_case.txt, Score: 1.391
+  File: tech_029_open_source_leaders_slam_patents.txt, Score: 1.375
+  File: business_014_telegraph_newspapers_axe_90_jobs.txt, Score: 1.213
+  File: business_003_yukos_unit_buyer_faces_loan.txt, Score: 1.207
+
+Query 5: Più termini, (contenuto 'mobile phones') Risultati: 10
+  File: tech_041_t_mobile_bets_on_pocket.txt, Score: 5.221
+  File: tech_042_hotspot_users_gain_free_net.txt, Score: 5.108
+  File: tech_040_apple_ipod_family_expands_market.txt, Score: 4.229
+  File: tech_033_global_digital_divide_narrowing.txt, Score: 4.087
+  File: tech_034_uk_gets_official_virus_alert.txt, Score: 4.048
+
+Query 6: Frase esatta, (contenuto '"mobile phones"') Risultati: 7
+  File: tech_034_uk_gets_official_virus_alert.txt, Score: 3.712
+  File: tech_042_hotspot_users_gain_free_net.txt, Score: 3.452
+  File: tech_045_sony_psp_tipped_as_a.txt, Score: 3.452
+  File: tech_033_global_digital_divide_narrowing.txt, Score: 3.264
+  File: tech_041_t_mobile_bets_on_pocket.txt, Score: 2.679
+
+Query 7: Frase con ordine invertito, (contenuto '"phones mobile"') Risultati: 0
+
+Query 8: Solo stopwords, (contenuto 'the') Risultati: 0
+
+Query 9: Parola inesistente, (contenuto 'xyzabc') Risultati: 0
+
+Query 10: Nome file, (nome 'warner') Risultati: 1
+  File: business_001_ad_sales_boost_time_warner.txt, Score: 3.396
+
+Query 11: Nome file (categoria), (nome 'business') Risultati: 25
+  File: business_006_japan_narrowly_escapes_recession.txt, Score: 0.622
+  File: business_013_peugeot_deal_boosts_mitsubishi.txt, Score: 0.622
+  File: business_017_parmalat_boasts_doubled_profits.txt, Score: 0.622
+  File: business_001_ad_sales_boost_time_warner.txt, Score: 0.585
+  File: business_002_dollar_gains_on_greenspan_speech.txt, Score: 0.585
+
