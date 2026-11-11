@@ -3,3 +3,12 @@ __pycache__/
 *.pyc
 .env
 .vscode/
+relazione/*.aux
+relazione/*.log
+relazione/*.out
+relazione/*.toc
+relazione/*.synctex.gz
+relazione/*.fls
+relazione/*.fdb_latexmk
+relazione/*.tex
+*.log
